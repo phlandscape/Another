@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1347451376 source:f:\c++\firstproject\newchess\src\bishop.cpp
+	"../include/Bishop.h"
+
+1347457649 f:\c++\firstproject\newchess\include\bishop.h
+	"../include/Square.h"
+	"Unit.h"
+
+1347457677 f:\c++\firstproject\newchess\include\unit.h
+	<cstdlib>
+
+1347451096 source:f:\c++\firstproject\newchess\main.cpp
+	<iostream>
+	"include\Chess.h"
+
+1347457649 f:\c++\firstproject\newchess\include\chess.h
+	"King.h"
+
+1347457649 f:\c++\firstproject\newchess\include\square.h
+	"Unit.h"
+
+1347457649 f:\c++\firstproject\newchess\include\king.h
+	"../include/Square.h"
+	"Unit.h"
+
+1347451480 source:f:\c++\firstproject\newchess\src\pawn.cpp
+	"../include/Pawn.h"
+
+1347457649 f:\c++\firstproject\newchess\include\pawn.h
+	"../include/Square.h"
+	"Unit.h"
+
+1347459835 source:f:\c++\firstproject\newchess\src\knight.cpp
+	"../include/Knight.h"
+
+1347457649 f:\c++\firstproject\newchess\include\knight.h
+	"../include/Square.h"
+	"Unit.h"
+
+1347451480 source:f:\c++\firstproject\newchess\src\queen.cpp
+	"../include/Queen.h"
+
+1347457649 f:\c++\firstproject\newchess\include\queen.h
+	"../include/Square.h"
+	"Unit.h"
+
+1347454430 source:f:\c++\firstproject\newchess\src\rook.cpp
+	"../include/Rook.h"
+
+1347457649 f:\c++\firstproject\newchess\include\rook.h
+	"../include/Square.h"
+	"Unit.h"
+
+1347459292 source:f:\c++\firstproject\newchess\src\chess.cpp
+	"../include/Chess.h"
+	"../include/Pawn.h"
+	"../include/Queen.h"
+	"../include/King.h"
+	"../include/Knight.h"
+	"../include/Bishop.h"
+	"../include/Rook.h"
+	<iostream>
+	<cstdlib>
+
+1347458746 source:f:\c++\firstproject\newchess\src\unit.cpp
+	"../include/Square.h"
+
+1347451096 source:f:\c++\firstproject\newchess\src\king.cpp
+	"../include/King.h"
+
+1346764581 source:f:\c++\firstproject\newchess\src\square.cpp
+	"../include/Square.h"
+
