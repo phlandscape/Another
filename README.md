@@ -14,6 +14,6 @@ main.cpp comment<br/>
  after each successfully implemented feature<br/>
 */<br/>
 ||*******************************************************<br/>
-<p>Currentproblems include</br>
+<p>Currently on refining movement and implementing CheckMate check for EOT and king movement</br>
 <td>
 </td></p>
