@@ -14,5 +14,6 @@ main.cpp comment<br/>
  after each successfully implemented feature<br/>
 */<br/>
 ||*******************************************************<br/>
-<p>The current problem is that the inherting unit functions call undefined reference function from their<br/>
-makemove function on the two other bool checking functions.</p>
+<p>Currentproblems include</br>
+<td>
+</td></p>
