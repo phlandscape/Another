@@ -14,6 +14,9 @@ main.cpp comment<br/>
  after each successfully implemented feature<br/>
 */<br/>
 ||*******************************************************<br/>
-<p>Currently on refining movement and implementing CheckMate check for EOT and king movement</br>
+<p>next to work on:<br/>
+refining movement <br/>
+implementing CheckMate check for EOT and king movement<br/>
+redesigning the Board class for easier access to the units. First idea: making the units the squares<br/>
 <td>
 </td></p>
